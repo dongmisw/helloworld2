@@ -1,6 +1,6 @@
 # Hello world 홈페이지 입니다.  
 ## 안녕하세요. 홍길동입니다.
-<img src="cat.jpg"/> <br>
+<img src="dog.jpg"/> <br>
 ## 즐겨찾기
 [네이버링크입니다.](https://naver.com)<br>
 ## 고양이 동영상
